@@ -1,9 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd286fcd-eeb0-4e1d-81ba-3c81d7e8d227" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bll/reducers/login-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/bll/reducers/login-reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bll/reducers/password-recovery-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/bll/reducers/password-recovery-reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bll/reducers/password-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/bll/reducers/password-reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bll/reducers/profile-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/bll/reducers/profile-reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bll/reducers/registration-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/bll/reducers/registration-reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bll/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/bll/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dal/API.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/dal/API.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/components/Error/Error404.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/components/Error/Error404.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/components/Error/styles/Error.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/components/Error/styles/Error.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/components/Login/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/components/Login/Login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/components/Password/Password.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/components/Password/Password.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/components/PasswordRecovery/PasswordRecovery.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/components/PasswordRecovery/PasswordRecovery.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/components/Profile/Profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/components/Profile/Profile.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/components/Registration/Reg.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/components/Registration/Reg.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/components/SuperComponents/SuperEditableSpan/SuperEditableSpan.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/components/SuperComponents/SuperEditableSpan/SuperEditableSpan.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/components/Test/Test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/components/Test/Test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/routing/Links.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/routing/Links.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/routing/Pages.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/routing/Pages.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2FJdMErbESYvLxeCgs2iPkRUCjs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ui/components/SuperComponents" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="E:\untitled2\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\untitled2\src\ui\routing" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\untitled2\src\ui\components\SuperComponents" />
+      <recent name="E:\untitled2\src\ui\components" />
+      <recent name="E:\untitled2\src\ui\components\PasswordRecovery" />
+      <recent name="E:\untitled2\src\ui\components\Registration" />
+      <recent name="E:\untitled2\src\ui\components\Profile" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd286fcd-eeb0-4e1d-81ba-3c81d7e8d227" name="Default Changelist" comment="" />
+      <created>1664214070301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664214070301</updated>
+      <workItem from="1664214071516" duration="1840000" />
+      <workItem from="1664281482269" duration="5521000" />
+      <workItem from="1664287811986" duration="2882000" />
+      <workItem from="1664290886191" duration="3514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#ESLint" timestamp="1664281931051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#ESLint/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1664281931051" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1664293353916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1664293353916" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1664290851671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1664290851671" />
+    <state x="701" y="150" key="refactoring.ChangeSignatureDialog" timestamp="1664284432677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="150" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.9.1920.1040@0.0.1920.1040" timestamp="1664284432677" />
   </component>
 </project>

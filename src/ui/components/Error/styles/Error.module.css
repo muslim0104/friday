@@ -1,0 +1,8 @@
+.error_block{
+
+    background-color: rgba(255, 24, 34, 0.58);
+}
+.error_text{
+    text-align: center;
+    color: white;
+}

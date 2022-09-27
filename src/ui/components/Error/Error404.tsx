@@ -1,12 +1,15 @@
 import React from 'react';
-
-const Reg = () => {
+import s from "./styles/Error.module.css"
+const Error404 = () => {
     return (
-        <div>
-            <h1>Registration</h1>
+        <div className={s.error_block}>
+
+            <h1 className={s.error_text}>404</h1>
+
+            <h1 className={s.error_text}> Page not found!   </h1>
 
         </div>
     );
 };
 
-export default Reg;
+export default Error404;
